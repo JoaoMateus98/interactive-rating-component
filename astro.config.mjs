@@ -8,5 +8,5 @@ export default defineConfig({
   // for github pages deployment
   site: "https://JoaoMateus98.github.io",
   // enter your repo here e.g. "/my-repo"
-  base: "",
+  base: "/interactive-rating-component",
 });
